@@ -5,6 +5,7 @@ import "@openzeppelin/contracts/utils/Counters.sol";
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
  //prevents re-entrancy attacks
 import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
+import "./simpleauct.sol";
 
 contract NFTMarket is ReentrancyGuard {
     using Counters for Counters.Counter;
