@@ -22,6 +22,6 @@ We were able to build 3 Solidity Contracts to manage auction style transactions,
 **Results**
 
 Our Contracts functioned, but we were not successful in developing a user interface for the market.  We tried to use Streamlit but did not succeed.  If we additional time to work on this project we would:
-  - Develop a User Interfact
+  - Develop a User Interface
   - Further Develop a Business Plan
   
