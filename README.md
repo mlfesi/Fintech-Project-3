@@ -26,4 +26,6 @@ Our Contracts functioned, but we were not successful in developing a user interf
   - Further Develop a Business Plan
   
   ![fb3c90fc-d2e5-4be8-8bbd-72f07f6827b1](https://user-images.githubusercontent.com/92758869/163504148-205333aa-9cdd-4935-ba5c-05dc60b076ab.png)
+  Setting Timer and Beneficiary in Auction ![6d51c7961a7f337771e21ff59ce8d749](https://user-images.githubusercontent.com/92758869/163682482-60959c84-e673-45e1-8cef-a2e54468a9e3.png)
+
 
